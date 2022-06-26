@@ -3,4 +3,3 @@ from sys import argv
 from math import sqrt
 
 def fact():
-	
